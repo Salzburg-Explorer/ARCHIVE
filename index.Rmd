@@ -26,6 +26,11 @@ Its language constructs as well as its object-oriented approach aim to help prog
 <h5> Limerick</h5>
 Python are due to hold a social event in Limerick in March - and the Conference in May
 
+<p>
+
+<h5> Links</h5>
+* <a href="https://www.meetup.com/pythonireland/">Python Ireland Meetup</a>
+* <a href="www.pycon.ie">PyCon Limerick Website</a>   
    
 ### Julia
 
@@ -36,7 +41,10 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
 
 <h5> Limerick</h5>
 Limerick and UL have been hosts to several Julia events already.
+<p>
 
+<h5> Links</h5>
+* <a href="www.julialang.org">Julia Language Website</a>
 
  
 
@@ -82,6 +90,11 @@ I dont know a whole lot about this project. It doesnt matter a whole lot though.
 <h5>Apache Druid</h5>
 Apache Druid is a real-time database to power modern analytics applications.
 <p>
+
+<h5> Links</h5>
+
+* <a href="https://druid.apache.org/">Apache Druid Website</a>
+* <a href="https://medium.com/data-reply-it-datatech/what-is-apache-druid-ad67bb8cd7f7">What is Apache Druid? (Medium Article)</a>
 
 <h5> Limerick</h5>
 
