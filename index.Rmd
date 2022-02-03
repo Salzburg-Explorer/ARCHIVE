@@ -117,6 +117,19 @@ TerminusDB is available under the Apache 2.0 license. TerminusDB is implemented 
 <h5> Limerick</h5>
 * This is a Dublin Based Company. Their main Developer Relations Person has previously visited Limerick (PyCon Limerick).
 
+### Rust
+<h4> Rust</h4>
+Rust is a systems programming language that runs blazingly fast, prevents nearly all segfaults, and guarantees thread safety.
+
+#### Rust In Production
+Hundreds of companies around the world are using Rust in production today for fast, low-resource, cross-platform solutions. Software you know and love, like Firefox, Dropbox, and Cloudflare, uses Rust. From startups to large corporations, from embedded devices to scalable web services, Rust is a great fit. (*www.rust-lang.org*)
+
+#### Links
+
+* <a href="https://www.rust-lang.org/">Rust Programming Language</a> 
+* <a href="https://www.meetup.com/Rust-Dublin/">Rust Dublin Meetup</a>
+
+
 ### Open Street Map, OSGEO and Irlogi
 
 There are a few Geographic/ GIS related groups around. They actually have big footprint in the west of Ireland
