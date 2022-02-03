@@ -143,9 +143,23 @@ Hundreds of companies around the world are using Rust in production today for fa
 * <a href="https://www.meetup.com/Rust-Dublin/">Rust Dublin Meetup</a>
 
 
+### DotNet/Azure
+
+#### Links
+
+* <a href="https://www.meetup.com/Limerick-DotNet/">Limerick Dot-NEt Azure Meetupp</a>
+
+
+
+
 ### Open Street Map, OSGEO and Irlogi
 
 There are a few Geographic/ GIS related groups around. They actually have big footprint in the west of Ireland
+
+#### OSGEO
+
+The Open Source Geospatial Foundation, is a non-profit non-governmental organization whose mission is to support and promote the collaborative development of open geospatial technologies and data.
+
 
 #### Open Street Map Ireland
 
